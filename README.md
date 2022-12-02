@@ -8,7 +8,7 @@
 - JPA
 - Redis
 - Lombok
-- Test
+- **Test**
   - Mockito
   - Junit5
 
